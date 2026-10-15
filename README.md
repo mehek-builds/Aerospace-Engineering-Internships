@@ -1,6 +1,6 @@
 # Aerospace Engineering Internships
 
-**39 open aerospace engineering internships and co-ops at 14 US employers.** Checked 15 Oct 2026. 12 posted in the last 7 days. 7 at employers with a visa sponsorship record.
+**42 open aerospace engineering internships and co-ops at 14 US employers.** Checked 15 Oct 2026. 12 posted in the last 7 days. 7 at employers with a visa sponsorship record.
 
 Aerospace, aeronautical and astronautical engineering internships, plus propulsion, avionics, GNC, flight test, structures and spacecraft roles.
 
@@ -10,7 +10,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | --- | --- | --- |
 | [Aerospace engineering internships](lists/aerospace.md) | 9 | 7 |
 | [Propulsion, avionics, GNC and flight test](lists/propulsion-avionics-gnc.md) | 24 | 9 |
-| [Spacecraft, aircraft and aerodynamics](lists/spacecraft-aircraft.md) | 7 | 5 |
+| [Spacecraft, aircraft and aerodynamics](lists/spacecraft-aircraft.md) | 10 | 5 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -52,7 +52,10 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **K2 Space** | [GNC Engineering Intern - Summer 2027](https://trylitos.com/job/00fff599-1d29-44ed-84da-9ce625408ba2?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Los Angeles, CA |  | Sep 17 |  |
 | **K2 Space** | [Avionics Systems/Test Engineering Intern - Summer 2027](https://trylitos.com/job/9e5a4b6b-012e-40e3-97db-b2f69ba9fa8a?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Los Angeles, CA |  | Sep 17 |  |
 | **The Aerospace Corporation** | [2027 Space Systems Architecture Undergrad Intern](https://trylitos.com/job/a736c4e2-7237-4964-9513-1049deed358e?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | Chantilly, VA; El Segundo, CA; Colorado Sprin |  | Oct 8 |  |
+| **The Aerospace Corporation** | [2027 Space Vehicle and Ground Systems Undergraduate Intern](https://trylitos.com/job/c66cd7cf-1909-47a5-8f81-7774df266ec8?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | El Segundo, CA; Chantilly, VA |  | Oct 7 |  |
+| **The Aerospace Corporation** | [2027 Space Vehicle and Ground Systems Graduate Intern](https://trylitos.com/job/8bdc9f4c-3db3-4cb5-88b7-c58b9b4ef5ad?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | El Segundo, CA; Chantilly, VA |  | Sep 25 |  |
 | **Elliott Group** | [Compressor Aerodynamics (R&D) Intern](https://trylitos.com/job/26580912-3398-4ad0-a146-8660c6fdd966?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | Jeannette, PA |  | Sep 16 |  |
+| **The Aerospace Corporation** | [2027 Space Enterprise Design and Optimization Graduate Intern](https://trylitos.com/job/e0ca7fbf-3f41-410c-9eff-b46e60c9f47c?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | El Segundo, CA; Chantilly, VA; Colorado Sprin |  | Sep 14 |  |
 | **Muon Space** | [Spacecraft Test Engineering Intern (Summer 2027)](https://trylitos.com/job/3ae8ea9a-b6ec-4090-8919-d7bc90982c44?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | San Jose, CA |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Zipline** | [Aerodynamics Intern (Spring 2027)](https://trylitos.com/job/034fe6b7-c2a9-4f7d-ae64-82a8bb2bf4cc?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | South San Francisco, California, USA |  | Oct 3 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Zipline** | [Aircraft Software Integration Intern (Spring 2027)](https://trylitos.com/job/05f4a732-9893-41fb-b3af-f91094be6156?utm_source=github&utm_campaign=aerospace-spacecraft-aircraft) | South San Francisco, California, USA |  | Oct 3 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
