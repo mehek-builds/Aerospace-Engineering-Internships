@@ -1,11 +1,20 @@
-# 24 propulsion, avionics, gnc and flight test roles
+# 32 propulsion, avionics, gnc and flight test roles
 
-**24 roles at 9 companies.** Checked 15 Oct 2026. Propulsion, avionics, guidance and control, and flight test internships.
+**32 roles at 12 companies.** Checked 20 Oct 2026. Propulsion, avionics, guidance and control, and flight test internships.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Ursa Major** | [2027 Summer In-Space Propulsion Engineering Intern](https://trylitos.com/job/2a0fbe48-629f-40dd-babf-efc3c55c34cd?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Berthoud, Colorado |  | Oct 19 |  |
+| **Ursa Major** | [2027 Summer Avionics Electrical Engineer Intern](https://trylitos.com/job/f577f487-9d18-4426-89e8-df614e06e190?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Berthoud, Colorado |  | Oct 19 |  |
+| **Northrop Grumman** | [2027 Mechanical Propulsion Engineer Internship - Dulles VA](https://trylitos.com/job/95b66e4c-9bf7-43a6-a7ec-0d9d2e6b7faa?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | United States-Virginia-Dulles |  | Oct 19 |  |
+| **Northrop Grumman** | [2027 Intern - Guidance Navigation and Control Engineer](https://trylitos.com/job/21da95ff-6768-41b0-8808-ee783935a8b7?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | United States-California-San Diego |  | Oct 16 |  |
+| **Northrop Grumman** | [2027 Program Management Intern - Rocket Center WV](https://trylitos.com/job/a79c078a-17f6-41cb-9005-40b3f4132b6c?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | United States-West Virginia-Rocket Center |  | Oct 15 |  |
+| **Blue Origin** | [Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate](https://trylitos.com/job/42ebc7f3-5068-4813-89e2-5bdd12c5ece5?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Greater Seattle Area |  | Oct 14 |  |
+| **Blue Origin** | [Summer 2027 Guidance, Navigation & Controls Internship - Graduate](https://trylitos.com/job/44504118-3b35-47da-a8c0-0981cc6ecbba?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Greater Seattle Area; Space Coast, FL; Denver |  | Oct 14 |  |
+| **Amentum** | [Space Nuclear Propulsion Materials Test & Evaluation Intern](https://trylitos.com/job/95c0e130-856d-4854-9c80-1e6eb297e66c?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | US-AL-Huntsville |  | Oct 13 |  |
+| **RTX** | [Aero Propulsion Systems Intern (Summer 2027)(Onsite)](https://trylitos.com/job/a8ba6de0-3b11-4137-8a24-68583c4e7af1?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G |  | Oct 13 |  |
 | **AeroVironment** | [Summer 2027 GNC / Autonomy Intern](https://trylitos.com/job/56303fbc-7797-42e7-b7c5-bbebeb9f67fa?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Simi Valley, CA; Huntsville, AL; Pottstown, P |  | Oct 13 |  |
 | **Blue Origin** | [Summer 2027 Avionics Software Internship - Undergraduate](https://trylitos.com/job/5653dbe5-625e-478f-93f8-2f62edddf3ac?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Greater Seattle Area; Denver, CO; Los Angeles |  | Oct 13 |  |
 | **Blue Origin** | [Summer 2027 Avionics Software Internship - Graduate](https://trylitos.com/job/3f013dde-fc46-48e7-8a8a-1a6a722c683f?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Greater Seattle Area; Los Angeles, CA; Denver |  | Oct 13 |  |
@@ -16,7 +25,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **The Aerospace Corporation** | [2027 Emerging Missions Flight Dynamics Graduate Intern](https://trylitos.com/job/7aa23325-47d0-4f19-bd72-e9d380c95f17?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Colorado Springs, CO; El Segundo, CA; Chantil |  | Sep 23 |  |
 | **The Aerospace Corporation** | [2027 Chemical Propulsion Graduate Intern](https://trylitos.com/job/fd691df0-1a68-4269-89b0-4c7cf87ce5be?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | El Segundo, CA |  | Sep 23 |  |
 | **The Aerospace Corporation** | [2027 Guidance, Navigation, and Control (GNC) Graduate Intern](https://trylitos.com/job/614ba2e7-e1f7-44c8-bb62-68c696b16c41?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | El Segundo, CA |  | Sep 9 |  |
-| **Brunswick** | [Mercury Marine: Drives & Propulsion Systems Engineering Intern](https://trylitos.com/job/b5fd52ad-b4fe-4bbe-b11d-76131ba10933?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | Oshkosh, WI |  | Aug 25 |  |
 | **Astranis** | [Electrical Integration Intern - Avionics (Winter 2027)](https://trylitos.com/job/36976090-d5c2-4a27-ae0c-3a6ff4146a9e?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | San Francisco | USD 29 per hour | Oct 13 |  |
 | **Astranis** | [Avionics Intern (Winter 2027)](https://trylitos.com/job/ceacd4f5-fe19-4aee-b224-b50cbbc596da?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | San Francisco | USD 29 per hour | Oct 13 |  |
 | **Astranis** | [Avionics Intern (Summer 2027)](https://trylitos.com/job/769f3027-b887-46d7-9e32-84b1bd0df802?utm_source=github&utm_campaign=aerospace-propulsion-avionics-gnc) | San Francisco | USD 29 per hour | Oct 13 |  |
