@@ -11,6 +11,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Aerospace engineering internships](lists/aerospace.md) | 10 | 8 |
 | [Propulsion, avionics, GNC and flight test](lists/propulsion-avionics-gnc.md) | 32 | 12 |
 | [Spacecraft, aircraft and aerodynamics](lists/spacecraft-aircraft.md) | 9 | 4 |
+| [Structures, dynamics and mechanical design](lists/structures-mechanical-design.md) | 6 | 4 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
