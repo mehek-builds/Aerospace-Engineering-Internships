@@ -1,0 +1,26 @@
+# 14 new grad GNC and propulsion engineering jobs
+
+**14 roles at 9 companies.** Checked 22 Oct 2026. New grad and entry-level (Engineer I, Associate, Junior) full-time roles in guidance, navigation and control (6) and propulsion (8) at US aerospace and space employers. Not internships.
+
+Most of these roles fall under US export rules (ITAR/EAR), which usually means you need to be a US citizen, green card holder, refugee or asylee. The Citizenship / clearance column shows what each posting says. Always check the posting itself before applying.
+
+_Pulled from companies' own job boards and rebuilt every Monday._
+
+| Company | Role | Focus | Location | Pay | Posted | Citizenship / clearance |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Northrop Grumman** | [2027 Associate Guidance Navigation Control Engineer - Dulles VA](https://trylitos.com/job/625b8f80-6f71-4cb8-b755-1eb090544d38?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | United States-Virginia-Dulles; United States- |  | Oct 15 | US citizenship required (security clearance needed) |
+| **RTX** | [Flight Control Software Engineer I (Onsite)](https://trylitos.com/job/c8a7d1a8-dac9-4ab8-9e26-cf2a2f77387a?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ |  | Oct 13 | US person or eligible for export authorization; no clearance required |
+| **Relativity Space** | [GNC Simulation Engineer I](https://trylitos.com/job/ec6822df-b822-41cd-8ba9-ff289b91f308?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | Long Beach, California, United States | USD 110,000 to 164,000 per year | Oct 7 | Posting does not say |
+| **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://trylitos.com/job/badb2b4f-a4e6-4f22-820c-f6a2e8f091d6?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | Bastrop, TX; Redmond, WA |  | Sep 29 | ITAR: US citizen, green card holder, refugee or asylee |
+| **Mach Industries** | [May 2027 New Graduate Engineer, GNC & Modeling and Simulation](https://trylitos.com/job/5ae7f437-32c8-47a8-a7e0-cc692c27e608?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | Huntington Beach, California, United States | USD 130,000 to 135,000 per year | Sep 10 | ITAR: US citizen, green card holder, refugee or asylee |
+| **Mach Industries** | [December 2026 New Graduate Engineer, Software / GNC](https://trylitos.com/job/6484a907-2756-470f-a884-fa4125cdfbf9?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | Huntington Beach, California, United States | USD 130,000 to 135,000 per year | Sep 2 | ITAR: US citizen, green card holder, refugee or asylee |
+| **Relativity Space** | [Manufacturing Engineer I, Turbomachinery](https://trylitos.com/job/b54f9bf7-f07b-4791-bda1-e468eb496e8f?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | Long Beach, California, United States | USD 90,000 to 136,000 per year | Oct 15 | Posting does not say |
+| **Relativity Space** | [Vehicle Fluids Hardware Development Engineer I](https://trylitos.com/job/66c69105-c8c0-4d65-824a-cef99653697c?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | Long Beach, California, United States | USD 90,000 to 136,000 per year | Oct 13 | Posting does not say |
+| **Stoke Space** | [Test Engineer (Level 1 - Early Career)](https://trylitos.com/job/0d20703d-9327-4183-9877-beb1dabf034b?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | Moses Lake, Washington |  | Oct 12 | ITAR: US citizen, green card holder or protected individual |
+| **Sierra Space** | [Mechanical Engineer I (Environmental/Propulsion)](https://trylitos.com/job/b1dc5e25-b0b8-4d36-8a5a-044d38542c25?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | Madison, WI; Middleton, WI |  | Oct 9 | Posting does not say |
+| **SpaceX** | [New Graduate Engineer, Propulsion (Raptor)](https://trylitos.com/job/6aeddb48-7da1-4e4c-9cf6-80b521e0ea57?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | Hawthorne, CA |  | Sep 29 | ITAR: US citizen, green card holder, refugee or asylee |
+| **Mach Industries** | [May 2027 New Graduate Engineer, Propulsion](https://trylitos.com/job/96e8338a-017e-4b2c-919f-02170bc0f750?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | San Luis Obispo, California, United States | USD 115,000 to 130,000 per year | Sep 10 | ITAR: US citizen, green card holder, refugee or asylee |
+| **Torch Technologies** | [Junior Propulsion Engineer](https://trylitos.com/job/f75685a1-81ad-43a7-b262-9360d51fba55?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | Redstone Arsenal, AL |  | Aug 24 | US citizenship and active DoD Secret clearance required |
+| **Boom Supersonic** | [Turbomachinery Engineer (Early Career, Exceptional Talent)](https://trylitos.com/job/b7caedeb-f4e4-42bd-8996-4e7e1059e6d7?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | Propulsion | Centennial, CO |  | Aug 14 | ITAR/EAR: US citizen, green card holder, protected individual or export-license eligible |
+
+[Download as CSV](../csv/) · [All lists](../README.md)
