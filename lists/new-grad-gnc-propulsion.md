@@ -1,6 +1,6 @@
-# 14 new grad GNC and propulsion engineering jobs
+# 13 new grad GNC and propulsion engineering jobs
 
-**14 roles at 9 companies.** Checked 22 Oct 2026. New grad and entry-level (Engineer I, Associate, Junior) full-time roles in guidance, navigation and control (6) and propulsion (8) at US aerospace and space employers. Not internships.
+**13 roles at 8 companies.** Checked 26 Oct 2026. New grad and entry-level (Engineer I, Associate, Junior) full-time roles in guidance, navigation and control (5) and propulsion (8) at US aerospace and space employers. Not internships.
 
 Most of these roles fall under US export rules (ITAR/EAR), which usually means you need to be a US citizen, green card holder, refugee or asylee. The Citizenship / clearance column shows what each posting says. Always check the posting itself before applying.
 
@@ -8,7 +8,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Focus | Location | Pay | Posted | Citizenship / clearance |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Northrop Grumman** | [2027 Associate Guidance Navigation Control Engineer - Dulles VA](https://trylitos.com/job/625b8f80-6f71-4cb8-b755-1eb090544d38?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | United States-Virginia-Dulles; United States- |  | Oct 15 | US citizenship required (security clearance needed) |
 | **RTX** | [Flight Control Software Engineer I (Onsite)](https://trylitos.com/job/c8a7d1a8-dac9-4ab8-9e26-cf2a2f77387a?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ |  | Oct 13 | US person or eligible for export authorization; no clearance required |
 | **Relativity Space** | [GNC Simulation Engineer I](https://trylitos.com/job/ec6822df-b822-41cd-8ba9-ff289b91f308?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | Long Beach, California, United States | USD 110,000 to 164,000 per year | Oct 7 | Posting does not say |
 | **SpaceX** | [New Graduate Engineer, GNC- '26/'27 (Starlink)](https://trylitos.com/job/badb2b4f-a4e6-4f22-820c-f6a2e8f091d6?utm_source=github&utm_campaign=aerospace-new-grad-gnc-propulsion) | GNC | Bastrop, TX; Redmond, WA |  | Sep 29 | ITAR: US citizen, green card holder, refugee or asylee |
